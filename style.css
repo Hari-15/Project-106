@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: orange;
+    color: darkblue;
+    margin: 0px;
+}
+
+img {
+    border: 10px black solid
+}
+
+.header {
+    background-color: orangered;
+    height : 100px;
+}
+
+.footer {
+    background-color: yellow;
+    height: 100px;
+}
